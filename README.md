@@ -6,7 +6,7 @@ Saya Abdullah Hafidz Furqon (2202729) mengerjakan soal Latihan 5 dalam mata kuli
 ![1  Tampilan awal](https://github.com/hafidzf25/LP5DPBO2024C2/assets/117885795/a03fbcac-aee8-485c-bcd4-811e14fc399b)
 
 Untuk desain nya ya seperti biasa, terhadap class mahasiswa yang memiliki atribut awal Nim, Nama, Jenis Kelamin.
-Untuk atribut tambahan dari saya adalah Pendidikan Terakhir Ibu, dan Pendidikan Terakhir Ayah.
+Untuk atribut tambahan dari saya adalah Pendidikan Terakhir Ibu, dan Pendidikan Terakhir Ayah dengan component yang berupa JComboBox.
 
 Untuk alur programnya adalah disini bisa melakukan Add Data, Update Data, dan Delete Data. Untuk alur Add Data adalah dengan mengisi semua input value yang disediakan seperti berikut:
 
@@ -16,7 +16,7 @@ Diatas sudah terlihat bahwa saya menginput atau mengisi kolom yang disediakan, u
 
 ![3  Tampilan setelah di klik add](https://github.com/hafidzf25/LP5DPBO2024C2/assets/117885795/29a86dbf-4e92-4c01-af35-e58b98ec7f8e)
 
-![Uploading 4. Bukti setelah ditambah.png…]()
+![4  Bukti setelah ditambah](https://github.com/hafidzf25/LP5DPBO2024C2/assets/117885795/9a939427-7252-4fac-a079-78d8cc818934)
 
 Untuk alur update data adalah memilih baris data yang ingin diubah, seperti contohnya saya memilih data terbaru dan mengklik button update:
 
